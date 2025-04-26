@@ -166,7 +166,7 @@ Key Pages:
 
 ### `firmware/`
 
-**Platform**: STM32WLE5JC  
+**Controller**: STM32WLE5JC  
 **Tools**: STM32CubeIDE + HAL Drivers  
 **Peripherals**:
 - GNSS (Quectel L89 R2.0 via UART)
